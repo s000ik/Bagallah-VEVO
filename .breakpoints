@@ -1,0 +1,26 @@
+{
+  "files": {
+    "bot.py": [
+      {
+        "id": "f7309e47-2eed-4e2b-85e8-1c492f333b0b",
+        "line": 12,
+        "version": 20,
+        "index": 221
+      }
+    ],
+    "main.py": [
+      {
+        "id": "c8d2a30e-5980-483a-a5af-cc47f59ba8d6",
+        "line": 1,
+        "version": 678,
+        "index": 0
+      },
+      {
+        "id": "d069382c-b030-47b7-80f6-d1fdbdcbf22e",
+        "line": 72,
+        "version": 678,
+        "index": 2124
+      }
+    ]
+  }
+}
